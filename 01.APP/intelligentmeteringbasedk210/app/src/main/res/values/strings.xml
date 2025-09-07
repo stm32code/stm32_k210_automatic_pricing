@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">基于K210智能计量</string>
+    <string name="debug">调试</string>
+</resources>
